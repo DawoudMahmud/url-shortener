@@ -1,4 +1,4 @@
-# Shorten your URL
+# QuickLink
 ## Technologies used: AWS API Gateway, DynamoDB, and Lambda functions
 
 ### Prerequisites
